@@ -7,3 +7,4 @@ git commit
 git log
 git log --oneline
 git annotate <file>
+https://stackoverflow.com/questions/26570242/how-to-move-master-to-head
